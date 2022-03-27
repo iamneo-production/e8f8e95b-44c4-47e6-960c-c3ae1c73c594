@@ -1,0 +1,93 @@
+*{
+    padding:0;
+    margin:0;
+}
+.navbar{
+    height: 80px;
+    width: 100%;
+    background: MediumSeaGreen;
+}
+.title{
+    width: 140px;
+    height: auto;
+    color:white;
+    font-family: sans-serif;
+    padding: 20px;
+}
+.logout{
+    float: right;
+    margin-right: 30px;
+    margin-top: -40px;
+    text-decoration: none;
+    color:white;
+    font-size: 20px;
+}
+.navbar ul{
+    float:left;
+    margin-top: -70px;
+    margin-left:150px;
+
+}
+.navbar ul li{
+    list-style: none;
+    margin: 0 8px;
+    display: inline-block;
+    line-height: 75px;
+}
+.navbar ul li a{
+    text-decoration: none;
+    color:white;
+    
+    font-size: 20px;
+}
+
+.navbar ul li a:hover{
+    
+    border-radius:2px;
+}
+.welcome{
+    padding: 25px;
+    background: LightGray;
+    background-clip: padding-box;
+}
+.welcome h1{
+    margin-top: 80px;
+}
+
+/* 
+
+
+*/
+
+   #mobileHomeBody{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    margin-left: 50px;
+    margin-top: 30px;
+    border-radius: 20px;
+    float: left;
+    max-width: 685px;
+    padding: 10px 5px 5px 5px;
+    text-align: justify;
+}
+
+#mobileHomeBody .galleryitem{
+    width: 250px;
+    height: 250px;
+    background:url('../images/screen.png');
+    background-repeat: no-repeat;
+    padding: 5px 5px 5px 5px;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    border-radius: 5px;
+    clear: both;
+}
+#mobileHomeBody img{
+    float: left;
+    width: 90%;
+    height: 90%;
+    margin: 2.5%;
+}
+#mobileHomeBody ul{
+    padding-left: 50px;
+    list-style-type:square;
+}
