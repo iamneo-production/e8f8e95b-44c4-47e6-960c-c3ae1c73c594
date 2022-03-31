@@ -1,0 +1,115 @@
+.header
+{
+  padding: 1px;
+  background-color:#00C8A8;
+  color: white;
+  display: inline-flex;
+  font-family: 'Times New Roman', Times, serif;
+  height: 50px;
+  width: 100%;
+}
+.space
+{
+    
+    margin: auto;
+    width: 200;
+    margin-left: 20;
+}
+.space2
+{
+    text-decoration: none; 
+    color: #fff;
+    margin: auto;
+    width: 100;
+}
+.space3
+{
+    text-decoration: none; 
+    color: #fff;
+    margin: auto;
+    width: 100%;
+    text-align: right;
+    margin-right: 20;
+}
+.space4
+{
+    text-decoration: none; 
+    color: #fff;
+    margin: auto;
+    width: 100;
+}
+.space5
+{
+    text-decoration: none; 
+    color: #fff;
+    margin: auto;
+    width: 150;
+}
+.mobileCartBody{
+    margin-top: 25;
+}
+.cartheader{
+    padding: 1px;
+  background-color:#00C8A8;
+  color: #000;
+  display: inline-flex;
+  font-family: 'Times New Roman', Times, serif;
+  height: 50px;
+  width: 100%;
+}
+.space6
+{
+    text-decoration: none; 
+    color: #000;
+    margin: auto;
+    width: 100;
+}
+.space7
+{
+    text-decoration: none; 
+    color: #000;
+    margin: auto;
+    width: 100;
+}
+.center{
+    margin: auto;
+    padding: 10px;
+    width: 90%;
+}
+.greenbox
+{
+    background-color:#00C8A8 ;
+    
+}
+.tc{
+    text-align: center;
+}
+.tablecontent{
+    background-color: #F3F1FC;
+}
+.orderbutton{
+    margin-top: 25px;
+}
+.orderbtn{
+    background-color: yellow;
+    cursor: pointer;
+    border: none;
+    padding: 15px 32px;
+    text-align: center;
+    font-size: 16px;
+}
+.deletebtn{
+    background-color: red;
+    border: none;
+    cursor: pointer;
+}
+.deleteicon{
+    color: #fff;
+}
+table{
+    border-collapse: collapse;
+    width: 100%;
+}
+.mobileOrderBody{
+    margin-top: 25;
+}
